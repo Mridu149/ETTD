@@ -1,0 +1,4 @@
+certs/
+www/video.bin
+captures/*.pcap
+__pycache__/
